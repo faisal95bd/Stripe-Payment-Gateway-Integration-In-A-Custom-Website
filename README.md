@@ -1,5 +1,5 @@
 # Stripe Payment Gateway Integration In A Custom Website
-Easiest way to integrate Stripe payment gateway in PHP for collecting payment online using the credit card or debit card.
+One of the easiest ways to integrate Stripe payment gateway in PHP for collecting payment online using the credit card or debit card.
 
 ### Step 1: Download & Install Composer https://getcomposer.org/download
 ### Step 2: Run the following command in your project folder:
