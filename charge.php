@@ -15,5 +15,5 @@
       'currency' => 'usd'
   ));
 
-  echo '<h1>Thank you for your payment. Your transaction has been completed,!</h1>';
+  echo '<h1>Thank you for your payment. Your transaction has been completed!</h1>';
 ?>
